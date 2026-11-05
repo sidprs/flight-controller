@@ -90,3 +90,4 @@ python3 motor_test.py
 Developed as part of the ASU Wrover CubeSat initiative, combining hardware, embedded systems, and space systems engineering principles.
 # tinyds
 # flight-controller
+# homegrown
